@@ -6,4 +6,4 @@
 
 ## 파일 목록
 
-- [[tech-trends]] — 글로벌 기술 트렌드 체감
+- [tech-trends](tech-trends.md) — 글로벌 기술 트렌드 체감
