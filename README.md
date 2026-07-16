@@ -6,8 +6,7 @@
 
 모르는 용어가 나오면 [glossary](glossary.md) 를 먼저 확인하세요.
 
-
----
+<br>
 
 ## 이 레포에 뭐가 있나요
 
@@ -18,7 +17,7 @@
 | [03_impressions](03_impressions/index.md) | 현장 분위기 · 기술 트렌드 체감              |
 | [glossary](glossary.md)                   | 용어 모음                           |
 
----
+<br>
 
 ## 추천 읽기 순서
 
